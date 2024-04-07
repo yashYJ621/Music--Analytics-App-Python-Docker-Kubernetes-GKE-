@@ -2,7 +2,7 @@
 import streamlit as st
 import pandas as pd
 from spotify_functions import extract_data, get_audio_features, transform_data
-from visualizations import display_data
+from visualization import display_data
 
 
 st.set_page_config(layout="wide")
