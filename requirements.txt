@@ -1,0 +1,9 @@
+spotipy
+pandas
+streamlit
+matplotlib
+seaborn
+numpy
+scikit-learn
+altair
+pygal
